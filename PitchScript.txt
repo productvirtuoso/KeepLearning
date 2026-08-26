@@ -1,0 +1,49 @@
+Runtime: 0:72
+
+Picture lock: Frame 1 (0–16) · Frame 2 (16–32) · Frame 3 (32–52) · Frame 4 (52–72)
+
+Lower-third in: AGENTIC COMMERCE at 0:01, out at 0:04.
+
+Lower-third out: TOP OF WALLET → TOP OF MANDATE from 1:04 to hold.
+FRAME 1 — 0:00–0:16
+
+Six tabs. A CVV field. A delivery calendar she does not trust.
+
+She puts the phone down and says the goal.
+
+Trail shoes. Under one-fifty. Friday.
+
+That is not a search. That is a signature. Scope, budget, expiry — signed once, at the start.
+FRAME 2 — 0:16–0:32
+
+The agent does not scroll. It reads. Merchants without structured data do not exist.
+
+She signs again. This time the basket: the pair, the retailer, the price. Locked.
+
+The store stays the merchant of record. Research happens in the assistant. Purchase still finishes where the brand can stand behind it.
+FRAME 3 — 0:32–0:52
+
+No card number ever leaves the vault.
+
+A single-use token, bound to both signatures, hits the network with the agent’s name on the authorisation.
+
+The rails are not the risk. The toll is. An agent has no favourite piece of metal and will not pay two percent out of habit.
+
+If your credential is not already in that agent’s permission set, you are not in the sale.
+FRAME 4 — 0:52–1:12
+
+Friday. The shoes are on the table. The app shows the chain — intent, cart, payment — and who owns a dispute.
+
+The volume is not here yet. The provisioning decision is.
+
+Top of wallet is over. Top of mandate is the game.
+
+Get in the permission set before the agent shops. Everything else is commentary.
+
+Delivery notes for the room
+
+One voice. Mid-register, no announcer. Treat it like a cards-committee walkthrough, not a product launch.
+Do not read the mandates as protocol names. Say “signature,” “basket,” “token.”
+Hold Frame 3 half a beat longer than the others. That is the issuer slide.
+If you must cut to 60 seconds: drop Frame 2’s last two sentences (“The store stays…”). The commercial payload lives in Frames 3 and 4.
+If you stretch to 90: add one line at 1:12, still on Frame 4 — Instrument the agent flag in auth and disputes now, or next year’s numbers will be a guess. Do not add a fourth “to-do.”
